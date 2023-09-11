@@ -1,7 +1,7 @@
 # 🏢 API BANK CUBOS ACADEMY
 
 <h4 align="center"> 
-	🚧 Nome do Projeto 🚧
+	🚧 Bank Cubos 🚧
 </h4>
 
 <p align="center">
